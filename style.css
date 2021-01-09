@@ -65,15 +65,16 @@ body{
 }
 
 /* use font-awesome */
-.social-icons li a img{
-padding: 10px ;
+.social-icons li a i{
+color: teal;
+padding: 5px ;
 font-size: 1rem;
 border-radius: 50%;
 }
 
 /* rgba(130, 196, 196, 0.3) */
-.social-icons li a img:hover{
-	box-shadow: 0px 0px 4px 4px teal;
+.social-icons li a i:hover{
+	box-shadow: 0px 0px 4px 4px grey;
 }
 
 
