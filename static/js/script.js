@@ -68,7 +68,7 @@ for (var i = 0; i < navMenuAnchorTags.length; i++) {
 
         var targetSection = document.getElementById(targetSectionID);
       
-        if (targetSectionID == 'contact' or targetSectionID == 'home' ){
+        if (targetSectionID == 'contact' || targetSectionID == 'home' ){
    			return;
    		}
    		event.preventDefault();
