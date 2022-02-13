@@ -1,5 +1,3 @@
-const prod = process.env.NODE_ENV === "production";
-
 module.exports = {
-  "process.env.BACKEND_URL": prod ? "/abhinayy0.github.io" : "",
+  presets: ["@babel/preset-env", "@babel/preset-react"],
 };

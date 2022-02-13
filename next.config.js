@@ -1,5 +1,6 @@
-const debug = process.env.NODE_ENV !== "production";
-
 module.exports = {
-  assetPrefix: !debug ? "/abhinayy0.github.io/" : "",
+  env: {
+    PUBLIC_URL: "https://abhinayy0.github.io",
+    assetPrefix: "./",
+  },
 };
