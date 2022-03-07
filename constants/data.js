@@ -75,7 +75,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/11QDjIiXaN6yt2MMGrpw8UwN-djGHFVDn/view?usp=sharing",
   socialLinks: {
     instagram: "#",
     twitter: "#",
